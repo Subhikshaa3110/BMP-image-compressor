@@ -7,8 +7,8 @@ Compressing a bmp image using discrete cosine transform and uniform quantization
   <li>the image was partitioned into uniform blocks of 8*8 matrices</li>
   <li>Each matrix was transformed using Discrete cosine transform</li>
   <li>Each DCT matrix was quantised using coefficient quantisation</li>
-  <li>Inverse DCT was applied on the quantised matrices to obtain the compressed image</l>
+  <li>Inverse DCT was applied on the quantised matrices to obtain the compressed image</li>
  </ol>
  # Final Output
- ![image](https://user-images.githubusercontent.com/84259402/143590163-c56a1b15-adec-4da5-845d-4dc10074dfe0.png)
+![image](https://user-images.githubusercontent.com/84259402/143591006-6a8f1920-aa9a-4d85-9058-f331c964eda8.png)
 
