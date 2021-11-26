@@ -12,4 +12,6 @@ Compressing a bmp image using discrete cosine transform and uniform quantization
  
 # Final Output
 
+![image](https://user-images.githubusercontent.com/84259402/143593569-ea48105d-49cd-41bc-9994-5a0be5e33ec6.png)
+
 
