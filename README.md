@@ -10,4 +10,3 @@ Compressing a bmp image using discrete cosine transform and uniform quantization
   <li>Inverse DCT was applied on the quantised matrices to obtain the compressed image</l>
  </ol>
  # Final Output
-![image](https://user-images.githubusercontent.com/84259402/143589472-b291ecc8-29aa-4d40-b0c0-7322308a65ae.png)
