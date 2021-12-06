@@ -1,4 +1,4 @@
-# DCT-IDCT-on-bmp-image
+# BMP-image-compressor
 Compressing a bmp image using discrete cosine transform and uniform quantization
 
 # Steps
